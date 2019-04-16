@@ -6,31 +6,49 @@
 
 #IncludeRegexTransform: 
 
-/home/ruben/CLionProjects/LinkedListVsBinarySearchTree/BinarySearchTree.h
+C:/Users/Rodrigo/Desktop/BinarySearchTree/binarysearchtree/BinarySearchTree.h
 Location.h
-/home/ruben/CLionProjects/LinkedListVsBinarySearchTree/Location.h
+C:/Users/Rodrigo/Desktop/BinarySearchTree/binarysearchtree/Location.h
 
-/home/ruben/CLionProjects/LinkedListVsBinarySearchTree/LinkedList.h
+C:/Users/Rodrigo/Desktop/BinarySearchTree/binarysearchtree/LinkedList.cpp
+iostream
+-
+fstream
+-
+LinkedList.h
+C:/Users/Rodrigo/Desktop/BinarySearchTree/binarysearchtree/LinkedList.h
+
+C:/Users/Rodrigo/Desktop/BinarySearchTree/binarysearchtree/LinkedList.h
 Location.h
-/home/ruben/CLionProjects/LinkedListVsBinarySearchTree/Location.h
-
-/home/ruben/CLionProjects/LinkedListVsBinarySearchTree/Location.h
+C:/Users/Rodrigo/Desktop/BinarySearchTree/binarysearchtree/Location.h
+fstream
+-
 string
 -
 
-/home/ruben/CLionProjects/LinkedListVsBinarySearchTree/main.cpp
+C:/Users/Rodrigo/Desktop/BinarySearchTree/binarysearchtree/Location.h
+string
+-
+ostream
+-
+
+C:/Users/Rodrigo/Desktop/BinarySearchTree/binarysearchtree/main.cpp
 iostream
 -
 sstream
 -
 string
 -
+Location.h
+C:/Users/Rodrigo/Desktop/BinarySearchTree/binarysearchtree/Location.h
 vector
 -
 fstream
 -
+chrono
+-
 LinkedList.h
-/home/ruben/CLionProjects/LinkedListVsBinarySearchTree/LinkedList.h
+C:/Users/Rodrigo/Desktop/BinarySearchTree/binarysearchtree/LinkedList.h
 BinarySearchTree.h
-/home/ruben/CLionProjects/LinkedListVsBinarySearchTree/BinarySearchTree.h
+C:/Users/Rodrigo/Desktop/BinarySearchTree/binarysearchtree/BinarySearchTree.h
 

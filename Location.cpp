@@ -5,3 +5,6 @@
 #include "Location.h"
 
 // Defina los metodos que crea necesario
+std::string Location::get_position_id(){
+    return position_id;
+}

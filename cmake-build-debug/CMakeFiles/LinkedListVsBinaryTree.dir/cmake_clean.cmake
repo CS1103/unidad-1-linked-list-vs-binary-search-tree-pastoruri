@@ -1,10 +1,12 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/LinkedListVsBinaryTree.dir/main.cpp.o"
-  "CMakeFiles/LinkedListVsBinaryTree.dir/LinkedList.cpp.o"
-  "CMakeFiles/LinkedListVsBinaryTree.dir/BinarySearchTree.cpp.o"
-  "CMakeFiles/LinkedListVsBinaryTree.dir/Location.cpp.o"
+  "CMakeFiles/LinkedListVsBinaryTree.dir/main.cpp.obj"
+  "CMakeFiles/LinkedListVsBinaryTree.dir/LinkedList.cpp.obj"
+  "CMakeFiles/LinkedListVsBinaryTree.dir/BinarySearchTree.cpp.obj"
+  "CMakeFiles/LinkedListVsBinaryTree.dir/Location.cpp.obj"
   "LinkedListVsBinaryTree.pdb"
-  "LinkedListVsBinaryTree"
+  "LinkedListVsBinaryTree.exe"
+  "LinkedListVsBinaryTree.exe.manifest"
+  "libLinkedListVsBinaryTree.dll.a"
 )
 
 # Per-language clean rules from dependency scanning.
